@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Meta X</title>
+    Meta X
   </head>
   <body>
     <h1>Meta X</h1>
