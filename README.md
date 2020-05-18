@@ -1,24 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <title>Meta X</title>
     <style>
 
-      body {
-        background-color: midnightblue;
-      }
-
-      hr {
-        border-style: none;
-        border-top-style: dotted;
-        border-color: white;
-        border-width: 5px;
-        width: 5%;
-      }
-
-
-    </style>
+      
   </head>
   <body>
     <h1>Meta X</h1>
@@ -40,7 +27,7 @@
       </tr>
     </table>
     
-    <table>
+   <table>
       <tr>
         <td> <a href="My Contact Details.html">Contact Me</a> </td>
       </tr>
