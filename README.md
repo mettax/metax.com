@@ -1,7 +1,24 @@
-
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">    
+    <meta charset="utf-8">
+    <title>Meta X</title>
+    <style>
+
+      body {
+        background-color: midnightblue;
+      }
+
+      hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: white;
+        border-width: 5px;
+        width: 5%;
+      }
+
+
+    </style>
   </head>
   <body>
     <h1>Meta X</h1>
@@ -21,9 +38,15 @@
            We bring more than 2 decades of expertise and experience across key focus areas that include: Sales Management, Digital Marketing and Sales, <br>
            Route to Market Planning, IT-Infrastructure Management and Process Optimization. </p><br></td>
       </tr>
+    </table>
+    
+    <table>
       <tr>
         <td> <a href="My Contact Details.html">Contact Me</a> </td>
       </tr>
     </table>
+    <hr>
   </body>
 </html>
+
+
