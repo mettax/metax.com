@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <title>meta x</title>
+    <meta charset="utf-8">    
     <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
 <center>
   <h1 style="color:white">Meta - x</h1>
 </center>
-
     <hr>
     <table cellspacing="50">
       <tr>
