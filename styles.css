@@ -1,0 +1,42 @@
+img {
+  height: 150px;
+}
+
+  body {
+    background-color: #142850;
+  }
+
+  h1 {
+    color:#00909E;
+  }
+
+  h2 {
+    color: #00909E;
+  }
+
+  p {
+    color: #00909e;
+  }
+
+  h3 {
+    color: #00909e;
+  }
+  h4 {
+    color: #00909e
+  }
+
+  label {
+    color: #00909e;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 2%;
+  }
+
+  a {
+    color: white;
+  }
