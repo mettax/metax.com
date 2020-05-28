@@ -1,27 +1,22 @@
-# metax.com
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <title>Meta - x</title>
+    <link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div class="x">
-      <a href="https://www.linkedin.com/in/tobby-kakkamthottil-0a9bab9"><img src="images/download2.png" alt=""></a>
-      <center>
-        <div class="About">
-          <a style="color:white;" href="about.html">About Us</a>
-        </div>
-        <div class="Contact">
-          <a style="color: white; "href="abc.html">Contact Us</a>
-        </div>
-        <h1>Meta - X</h1>
-        <p>The place to be at.</p>
-        </center>
-    </div>
-    <div class="b">
-    </div>
-    <div class="c">
-    </div>
+    <div class="sec1">
+      <img class="butterfly"src="butterfly.png" alt="">
+      <a class="About" href="about.html">Contact Us</a>
+    <center>
+      <h1 class="meta">Meta - </h1><h1 class="x"> x</h1>
+      <p>Data | Knowledge | Morphosis</p>
+    </center>
   </body>
 </html>
