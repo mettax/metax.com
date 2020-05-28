@@ -2,7 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Meta - x</title>
     <link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
