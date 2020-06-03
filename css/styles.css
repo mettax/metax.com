@@ -459,3 +459,171 @@ top: 717px;
 left: 225px;
 color: #65BFBF;
 }
+@media screen and (max-width: 414px) {
+
+     .butterfly {
+       height: 300px;
+       position: absolute;
+       left: 52px;
+       top: 204px;
+     }
+     .meta {
+       position: absolute;
+       top: 340px;
+       left: 115px;
+       font-size: 50px;
+     }
+     .x {
+       position: absolute;
+       top: 340px;
+       left: 232px;
+       font-size: 50px;
+     }
+     .AboutUs {
+     font-size: 16px;
+     position: absolute;
+     top: 150px;
+     left: 154px;
+     letter-spacing: 1px;
+     font-family: 'Anton', sans-serif;
+     color: #fce8d5;
+     }
+     .ContactUs {
+       font-size: 16px;
+       position: absolute;
+       top: 150px;
+       left: 250px;
+       letter-spacing: 1px;
+       font-family: 'Anton', sans-serif;
+       color: #fce8d5;
+     }
+     .vision000 {
+       font-size: 20px;
+       position: absolute;
+       top: 50px;
+       left: 30px;
+       color: #fce8d5;
+       font-family: 'Righteous', cursive;
+     }
+     .mission000 {
+       font-size: 20px;
+       position: absolute;
+       top: 50px;
+       left: 115px;
+       color: #fce8d5;
+       font-family: 'Righteous', cursive;
+     }
+     .corevalues000 {
+       font-size: 20px;
+       position: absolute;
+       top: 50px;
+       left: 210px;
+       color: #fce8d5;
+       font-family: 'Righteous', cursive;
+     }
+     .vision {
+       font-size: 35px;
+       color: #fce8d5;
+       position: absolute;
+       top: 300px;
+       left: 10px ;
+       font-family: 'Roboto', sans-serif;
+       display: inline;
+     }
+     .vision1 {
+       text-align: left;
+       font-size: 13px;
+       font-weight: bold;
+       color: #fce8d5;
+       position: absolute;
+       top: 370px;
+       left: 5px;
+       font-family: 'Roboto', sans-serif;
+       display: inline;
+     }
+     .vision11 {
+     text-align: left;
+     font-weight: bold;
+     font-size: 13px;
+     color: #fce8d5;
+     position: absolute;
+     top: 383px;
+     left: 5px;
+     font-family: 'Roboto', sans-serif;
+     display: inline;
+     }
+     .sec1 {
+       position: absolute;
+       left: 0;
+       right: 0;
+       top: 0;
+       bottom: 0;
+       height: 736px;
+       width: 414px;
+       background-color: #142850;
+     }
+     .sec2 {
+       background-color: #00909e;
+       position: absolute;
+       left: 0;
+       top: 736px;
+       height: 736px;
+       width: 414px;
+     }
+     .sec3 {
+       position: absolute;
+       top: 1472px;
+       left: 0;
+       height: 736px;
+       width: 414px;
+       background-color: #4cd3c2;
+     }
+     .ed {
+       position: absolute;
+       top: 704px;
+     }
+     .enn  {
+       position: absolute;
+       top: 714px;
+     }
+     .ll  {
+       position: absolute;
+       top: 704px;
+     }
+     .h11  {
+       position: absolute;
+       top: 714px;
+     }
+     .bbb {
+       font-size: 13px;
+       color: #fce8d5;
+       position: absolute;
+       top: 410px;
+       left: 110px;
+       font-family: 'Fira Sans Extra Condensed', sans-serif;
+     }
+     .sec4 {
+       position: absolute;
+       top: 2208px;
+       left: 0;
+       height: 736px;
+       width: 100%;
+       background-color: #27496d;
+     }
+     .mission {
+       position: absolute;
+       top: 350px;
+       left: 10px;
+       font-size: 35px;
+       color: #142850;
+       font-family: 'Roboto', sans-serif;
+     }
+     .mission1 {
+       position: absolute;
+       top: 410px;
+       left: 5px;
+       font-size: 15px;
+       color: #142850;
+       font-family: 'Roboto', sans-serif;
+     }
+}
