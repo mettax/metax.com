@@ -156,7 +156,7 @@ color: #65BFBF;
   top: 745px;
   left: 260px;
 }
-@media (min-width: 414px) {
+@media (max-width: 414px) {
   .sec1 {
     height: 1800px;
   }
