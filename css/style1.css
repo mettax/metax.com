@@ -70,11 +70,20 @@
   display: inline;
 }
 .backtohome {
+  text-decoration: none;
   font-size: 20px;
   position: absolute;
   top: 50px;
   left: 10px;
   color: #f7f7f7;
+}
+.backtohome:hover {
+  text-decoration: none;
+  font-size: 20px;
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  color: #ea6227;
 }
 .em {
   color: #65BFBF;
